@@ -90,7 +90,7 @@ How to Run
 3. Open Terminal or Command Prompt.
 4. Run:
 
-python RD_Gaming_Zone.py
+Multiplayer_Game_Zone.py
 
 5. Select a game from the menu and enjoy.
 
@@ -125,4 +125,4 @@ After completing this project, students will understand:
 
 Conclusion
 
-RD Gaming Zone is a simple, interactive, and educational Python project that combines multiple games into one application. It demonstrates the practical use of Python programming concepts while providing an enjoyable gaming experience. This project is suitable for beginners, college assignments, and Python practice.
+Multiplayer Game is a simple, interactive, and educational Python project that combines multiple games into one application. It demonstrates the practical use of Python programming concepts while providing an enjoyable gaming experience. This project is suitable for beginners, college assignments, and Python practice.
